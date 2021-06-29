@@ -6,8 +6,8 @@ LACE is a model-agnostic explanation method that explains the individual predict
 
 Usage - Notebooks
 -----
-At the followung notebook [**running example - COMPAS dataset**](https://github.com/elianap/LACE-NB/blob/main/COMPAS.ipynb) and [**running example - zoo dataset**](https://github.com/elianap/LACE-NB/blob/main/Zoo.ipynb) you can find a running example of the usage of LACE
+At the following notebook [**running example - zoo dataset**](https://github.com/elianap/LACE/blob/main/00_LACE_Running_Example_ZOO_X-PLAIN.ipynb) you can find a running example of the usage of LACE
 
 Source code
 -----
-The source code is available at the following [link](https://github.com/elianap/LACE-NB)
+The source code is available at the following [link](https://github.com/elianap/LACE)
